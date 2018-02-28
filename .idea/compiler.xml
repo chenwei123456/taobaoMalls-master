@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="taobao-common" />
+        <module name="taobao-manage" />
+        <module name="taobao-manage-mapper" />
+        <module name="taobao-manage-pojo" />
+        <module name="taobao-manage-web" />
+        <module name="taobao-manager" />
+        <module name="taobao-manager-service" />
+        <module name="taobao-order" />
+        <module name="taobao-portal" />
+        <module name="taobao-rest" />
+        <module name="taobao-search" />
+        <module name="taobao-sso" />
+        <module name="taobaomanage-mapper" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="taobao-common" target="1.7" />
+      <module name="taobao-manage" target="1.7" />
+      <module name="taobao-manage-mapper" target="1.7" />
+      <module name="taobao-manage-pojo" target="1.7" />
+      <module name="taobao-manage-web" target="1.7" />
+      <module name="taobao-manager" target="1.7" />
+      <module name="taobao-manager-service" target="1.7" />
+      <module name="taobao-order" target="1.7" />
+      <module name="taobao-parent" target="1.7" />
+      <module name="taobao-portal" target="1.7" />
+      <module name="taobao-rest" target="1.7" />
+      <module name="taobao-search" target="1.7" />
+      <module name="taobao-sso" target="1.7" />
+      <module name="taobaomanage-mapper" target="1.5" />
+      <module name="taotao-common" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

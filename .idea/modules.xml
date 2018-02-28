@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/taobao-common/taobao-common.iml" filepath="$PROJECT_DIR$/taobao-common/taobao-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-manager/taobao-manage-mapper/taobao-manage-mapper.iml" filepath="$PROJECT_DIR$/taobao-manager/taobao-manage-mapper/taobao-manage-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-manager/taobao-manage-pojo/taobao-manage-pojo.iml" filepath="$PROJECT_DIR$/taobao-manager/taobao-manage-pojo/taobao-manage-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-manager/taobao-manage-web/taobao-manage-web.iml" filepath="$PROJECT_DIR$/taobao-manager/taobao-manage-web/taobao-manage-web.iml" />
+      <module fileurl="file://D:\taotaoMalls-master\taobao-manager\taobao-manage-web.iml" filepath="D:\taotaoMalls-master\taobao-manager\taobao-manage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-manager/taobao-manager.iml" filepath="$PROJECT_DIR$/taobao-manager/taobao-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-manager/taobao-manager-service/taobao-manager-service.iml" filepath="$PROJECT_DIR$/taobao-manager/taobao-manager-service/taobao-manager-service.iml" />
+      <module fileurl="file://D:\taotaoMalls-master\taobao-manager\taobao-manager-web.iml" filepath="D:\taotaoMalls-master\taobao-manager\taobao-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-order/taobao-order.iml" filepath="$PROJECT_DIR$/taobao-order/taobao-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-parent/taobao-parent.iml" filepath="$PROJECT_DIR$/taobao-parent/taobao-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-portal/taobao-portal.iml" filepath="$PROJECT_DIR$/taobao-portal/taobao-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-rest/taobao-rest.iml" filepath="$PROJECT_DIR$/taobao-rest/taobao-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-search/taobao-search.iml" filepath="$PROJECT_DIR$/taobao-search/taobao-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobao-sso/taobao-sso.iml" filepath="$PROJECT_DIR$/taobao-sso/taobao-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taobaoMalls-master.iml" filepath="$PROJECT_DIR$/taobaoMalls-master.iml" />
+    </modules>
+  </component>
+</project>

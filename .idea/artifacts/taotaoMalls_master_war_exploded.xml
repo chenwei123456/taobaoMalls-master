@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="taotaoMalls-master:war exploded">
+    <output-path>D:/javatools/tomcat/tomcat1/apache-tomcat-7.0.75/webapps/taobao</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="taobaoMalls-master/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="taobaoMalls-master" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/taotao-common/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-manage-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-manage-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-manage/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-manage/taobao-manage-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-manage/taobao-manage-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-common/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-manage/taobao-manager-service/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-order/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-search/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-manage-web/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-portal/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-rest/pom.xml" />
+        <option value="$PROJECT_DIR$/taobao-manager/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
